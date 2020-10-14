@@ -1,2 +1,2 @@
 # memphishomeschoolhackwebsite
-#The beggining of our wonderful website!!!
+The beggining of our wonderful website!!!

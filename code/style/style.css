@@ -1,1 +1,85 @@
+body {
+    font-family: 'BioRhyme';font-size: 1.5em;
+    text-align: center;
+    background-image: url(../images/space.gif)
+}
+
+
+footer{
+    color: #FF8700;
+}
+
+footer, a{
+    color: #ff0070;
+}
+
+#zoom{
+    color:#ff0070;
+}
+
+#hackclub{
+    color:#df00ff;
+}
+
+#github{
+    color: #00FF04;
+}
+p{
+    margin-left: 3%;
+    margin-right: 3%;
+    font-size: 1em;
+}
+
+ section {
+
+        background: #F6FFFE;
+        color: #df00ff;
+        border-radius: 4em;
+        padding: .1em;
+        position: absolute;
+        left: 50%;
+         margin-right: -30%;
+        transform: translate(-50%, 0%) }
+
+.welcome{
+    -webkit-animation:colorchange 1s infinite;
+
+}
+
+img {
+  border-radius: 10%;
+}
+
+ 
+@keyframes colorchange {
+      0% {
+        
+        color: #FFE400;
+      }
+      
+      16.5% {
+        
+        color: #00FF65;
+      }
+    
+      33% {
+        
+        color: #001BFF;
+      }
+      
+     39.5% {
+        
+        color: #FF1902;
+      }
+      66%{
+        
+        color: #001BFF;
+      }
+      82.5% {
+        
+        color: #00FF65;
+      }
+      
+    }
+
 

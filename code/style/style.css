@@ -1,7 +1,12 @@
 body {
-    font-family: 'BioRhyme';font-size: 1.5em;
+    font-family: 'Space Mono';font-size: 2em;
     text-align: center;
-    background-image: url(../images/space.gif)
+    background-image: url(../images/stars.jpg);
+    background-color: #434245;
+    background-attachment:fixed;
+
+    
+    
 }
 
 
@@ -9,12 +14,14 @@ footer{
     color: #FF8700;
 }
 
-footer, a{
-    color: #ff0070;
+
+#slack{
+    color: #FF8700;
 }
 
 #zoom{
     color:#ff0070;
+    animation: moves 3s, 2;
 }
 
 #hackclub{
@@ -25,16 +32,24 @@ footer, a{
     color: #00FF04;
 }
 p{
-    margin-left: 3%;
-    margin-right: 3%;
+    margin-left: 10%;
+    margin-right: 10%;
     font-size: 1em;
+}
+
+.contact{
+    color: #f8f5ff;
+}
+
+.contact, a{
+    color: #f8f5ff;
 }
 
  section {
 
-        background: #F6FFFE;
-        color: #df00ff;
-        border-radius: 4em;
+        color: #f8f5ff;
+        text-shadow: 2px 2px 6px #000000;
+        border-radius: .1em;
         padding: .1em;
         position: absolute;
         left: 50%;
@@ -42,7 +57,9 @@ p{
         transform: translate(-50%, 0%) }
 
 .welcome{
-    -webkit-animation:colorchange 1s infinite;
+    font-family: 'Space Mono', monospace;
+    animation: colorchange 3s, 2;
+
 
 }
 
@@ -50,6 +67,37 @@ img {
   border-radius: 10%;
 }
 
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
  
 @keyframes colorchange {
       0% {
@@ -81,5 +129,12 @@ img {
       }
       
     }
+
+@keyframes moves{
+                0%{transform: rotateX(0deg);}
+                50%{transform: rotateX(360deg);}
+                100%{transform: rotateX(0deg);}
+        
+            }
 
 

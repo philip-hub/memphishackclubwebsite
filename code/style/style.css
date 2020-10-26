@@ -1,7 +1,7 @@
 body {
     font-family: 'Space Mono';font-size: 2em;
     text-align: center;
-    background-image: url(../images/stars.jpg);
+    background-image: url(../images/stars.gif);
     background-color: #434245;
     background-attachment:fixed;
 
@@ -70,10 +70,11 @@ img {
 .fa {
   padding: 20px;
   font-size: 30px;
-  width: 50px;
+  width: 30px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
+  border-radius: 50%;
 }
 
 .fa:hover {
@@ -96,6 +97,10 @@ img {
 
 .fa-youtube {
   background: #bb0000;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
   color: white;
 }
  
@@ -136,5 +141,4 @@ img {
                 100%{transform: rotateX(0deg);}
         
             }
-
 

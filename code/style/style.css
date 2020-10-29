@@ -110,37 +110,45 @@ img {
       0% {
         
         color: #FFE400;
+        transform: rotateZ(0deg) rotateY(0deg);
       }
       
       16.5% {
         
         color: #00FF65;
+        transform: rotateZ(5deg) rotateY(10deg);
       }
     
       33% {
         
         color: #001BFF;
+        transform: rotateZ(0deg) rotateY(0deg);
       }
       
      39.5% {
         
         color: #FF1902;
+        transform: rotateZ(-5deg) rotateY(-10deg);
       }
       66%{
         
         color: #001BFF;
+        transform: rotateZ(0deg) rotateY(0deg);
       }
       82.5% {
         
         color: #00FF65;
+        transform: rotateZ(5deg) rotateY(-10deg);
       }
       
     }
 
 @keyframes moves{
-                0%{transform: rotateX(0deg);}
-                50%{transform: rotateX(360deg);}
-                100%{transform: rotateX(0deg);}
+                0%{transform: rotateZ(0deg) rotateY(0deg);}
+                25%{transform: rotateZ(60deg) rotateY(30deg);}
+                50%{transform: rotateZ(0deg) rotateY(0deg);}
+                75%{transform: rotateZ(-60deg) rotateY(-30deg);}
+                100%{transform: rotateZ(0deg) rotateY(0deg);}
         
             }
 

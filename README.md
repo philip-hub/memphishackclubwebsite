@@ -5,4 +5,4 @@ http://memphishack.com
 
 Feel Free to join our Hack Club!
 
-![alt text](https://github.com/[philip-hub]/[memphishackclubwebsite]/blob/[main]code/images/tree.png?raw=true)
+![alt text](https://github.com/[philip-hub]/[memphishackclubwebsite]/blob/[main]/tree.png?raw=true)

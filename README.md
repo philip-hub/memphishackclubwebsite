@@ -13,4 +13,10 @@ Memphis Hackclub is a hackclub for Memphis Tennesee and the surrounding area. We
 Check out our site and feel free to contribute!
 http://memphishack.com
 ---
+Follow our socials!
+[Instgram](https://www.instagram.com/memphishackclub/)
+[Facebook](https://www.facebook.com/groups/656997425191729)
+[Twitter](https://twitter.com/MHackclub)
+[LinkedIn](https://www.linkedin.com/company/memphis-hack-club/?viewAsMember=true)
+
 ![alt text](https://raw.githubusercontent.com/philip-hub/memphishackclubwebsite/main/code/images/justhackit.png)

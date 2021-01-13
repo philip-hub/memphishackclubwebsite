@@ -2,7 +2,7 @@
 
 Build In | Contributors | Live version
 --- | --- | ---
-**HTML/CSS/JS** | [_@philip-hub](https://github.com/philip-hub) [@katies-hub](https://github.com/katies-hub)_ | [memphishack.com](http://memphishack.com)
+**HTML/CSS/JS** | [@philip-hub](https://github.com/philip-hub) [@katies-hub](https://github.com/katies-hub) | [memphishack.com](http://memphishack.com)
 
 ![alt text](https://raw.githubusercontent.com/philip-hub/memphishackclubwebsite/main/code/images/enthusiasticbeingswanted.png)
 

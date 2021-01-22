@@ -4,7 +4,7 @@ Build In | Contributors | Live version
 --- | --- | ---
 **HTML/CSS/JS** | [@philip-hub](https://github.com/philip-hub) [@katies-hub](https://github.com/katies-hub) [@sarhaktexas](https://github.com/sarthaktexas)| [memphishack.com](http://memphishack.com)
 
-![alt text](https://raw.githubusercontent.com/philip-hub/memphishackclubwebsite/main/code/images/enthusiasticbeingswanted.png)
+![alt text](https://raw.githubusercontent.com/philip-hub/memphishackclubwebsite/main/images/enthusiasticbeingswanted.png)
 
 # Description
 
@@ -19,4 +19,4 @@ Follow our socials!
 [Twitter](https://twitter.com/MHackclub)
 [LinkedIn](https://www.linkedin.com/company/memphis-hack-club/?viewAsMember=true)
 
-![alt text](https://raw.githubusercontent.com/philip-hub/memphishackclubwebsite/main/code/images/justhackit.png)
+![alt text](https://raw.githubusercontent.com/philip-hub/memphishackclubwebsite/main/images/justhackit.png)

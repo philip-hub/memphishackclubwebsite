@@ -151,3 +151,7 @@ img {
                 100%{transform: rotateZ(0deg) rotateY(0deg);}
         
             }
+
+#NV {
+  visibility: hidden;
+}

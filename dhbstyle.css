@@ -1,0 +1,25 @@
+body{
+  font-family: 'Press Start 2P', cursive;
+  background-color:black;
+  text-align: center;
+  font-size:2em;
+  margin-right: 3%;
+  margin-left:3%; 
+  background-attachment:fixed;
+}
+p{
+  color:#ff0070;
+}
+
+a{
+  color: white;
+}
+
+#countdown{
+ color:#ff0070; 
+}
+
+#title{
+ font-size: 2.5em; 
+ color:#ff0070;
+}

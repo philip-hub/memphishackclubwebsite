@@ -1,4 +1,6 @@
 
+
+
 function nextTime(){
 
   var currentDate = new Date();
@@ -50,7 +52,7 @@ function nextTime(){
   var yyyy = nextMeeting.getFullYear();
   nextMeeting = mm + '/' + dd + '/' + yyyy;
 
- var text = "Club Meeting on Zoom on 4:00 CST "+nextMeeting+" (Click to Join)<br><br>Otherwise the Meeting ID is 873 081 0383 and meeting passcode is Hackclub";
+ var text = "Club Meeting on Zoom on 4:00 CST "+nextMeeting+" (Click to Join)<br>";
 
  console.log("--------------------")
  console.log("#")
@@ -61,3 +63,4 @@ function nextTime(){
  return text;
 
 }
+

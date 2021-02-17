@@ -3,7 +3,7 @@ body {
     text-align: center;
     background-image: url(../images/stars.gif);
     background-color: #434245;
-    background-attachment:fixed;
+    background-attachment: fixed;
 
     
     
@@ -32,9 +32,9 @@ footer{
     color: #00FF04;
 }
 p{
-    margin-left: 10%;
-    margin-right: 10%;
-    font-size: 1em;
+    margin-left: 0%;
+    margin-right: 0%;
+    font-size: 80%;
 }
 
 .contact{
@@ -155,3 +155,27 @@ img {
 #NV {
   visibility: hidden;
 }
+
+.security{
+ color: #df00ff;
+
+ 
+ 
+}
+
+#titleHeader{
+  font-family: 'Space Mono', monospace;
+  color: #FF8700;
+
+}
+
+#linkToConduct{
+  font-family: 'Space Mono', monospace;
+  color: #ff0070;
+
+}
+
+#policy{
+  color: #FF8700;
+}
+

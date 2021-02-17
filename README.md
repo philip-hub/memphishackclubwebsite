@@ -2,7 +2,7 @@
 
 Build In | Contributors | Live version
 --- | --- | ---
-**HTML/CSS/JS** | [@philip-hub](https://github.com/philip-hub) [@katies-hub](https://github.com/katies-hub) [@sarhaktexas](https://github.com/sarthaktexas)| [memphishack.com](http://memphishack.com)
+**HTML/CSS/JS** | [@philip-hub](https://github.com/philip-hub) [@katies-hub](https://github.com/katies-hub) [@sarhaktexas](https://github.com/sarthaktexas)[@MaybeDuck](https://github.com/MaybeDuck)| [memphishack.com](http://memphishack.com)
 
 ![alt text](https://raw.githubusercontent.com/philip-hub/memphishackclubwebsite/main/images/enthusiasticbeingswanted.png)
 

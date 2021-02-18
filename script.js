@@ -52,7 +52,7 @@ function nextTime(){
   var yyyy = nextMeeting.getFullYear();
   nextMeeting = mm + '/' + dd + '/' + yyyy;
 
- var text = "Club Meeting on Zoom on 4:00 CST "+nextMeeting+" (Click to Join)<br>";
+ var text = "Club Meeting on Zoom on 4:00 PM CST Thursday "+nextMeeting+" (Click to Join)<br>";
 
  console.log("--------------------")
  console.log("#")
